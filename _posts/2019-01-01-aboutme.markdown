@@ -15,7 +15,7 @@ My research interests include:
 # Publications
 
 \[*MICRO-51 2018*\] [LerGAN: A Zero-Free, Low Data Movement and PIM-Based GAN Architecture](https://ieeexplore.ieee.org/abstract/document/8574577).
-**Haiyu Mao**, Mingcong Song, Tao Li, Yuting Dai, Jiwu Shu. \[[Lightening Talk](https://www.youtube.com/watch?v=dmsGaoJKbAU)\]<br>
+**Haiyu Mao**, Mingcong Song, Tao Li, Yuting Dai, Jiwu Shu. \[[Lightning Talk](https://www.youtube.com/watch?v=dmsGaoJKbAU)\]<br>
  \[*DATE 2017*\] [Protect non-volatile memory from wear-out attack based on timing difference of row buffer hit/miss](https://ieeexplore.ieee.org/document/7927251).
 **Haiyu Mao**, Xian Zhang, Guangyu Sun, Jiwu Shu.<br>
 \[*NVMSA 2015*\] [Exploring data placement in racetrack memory based scratchpad memory](https://ieeexplore.ieee.org/document/7304358).
