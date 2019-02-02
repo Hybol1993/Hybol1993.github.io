@@ -1,0 +1,31 @@
+---
+layout: post
+---
+
+# About Me
+
+I am a Ph.D. candidate at [Storage Group](http://storage.cs.tsinghua.edu.cn/) of Computer Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018/index.html), and supervised by [Prof.Jiwu Shu](http://storage.cs.tsinghua.edu.cn/~jiwu-shu/). Before that, I received my bachelor degree at [Northeastern University](http://english.neu.edu.cn/) in China.
+
+My research interests include:
+>- **Architecture of Non-volatile Memory**
+>- **Security of Non-volatile Memory**
+>- **Non-volatile Memory based Processing-In-Memory**
+>- **Machine Learning Accelerator**
+
+# Publications
+
+\[*MICRO-51 2018*\] [LerGAN: A Zero-Free, Low Data Movement and PIM-Based GAN Architecture](https://ieeexplore.ieee.org/abstract/document/8574577).
+**Haiyu Mao**, Mingcong Song, Tao Li, Yuting Dai, Jiwu Shu. \[[Lightening Talk](https://www.youtube.com/watch?v=dmsGaoJKbAU)\]<br>
+ \[*DATE 2017*\] [Protect non-volatile memory from wear-out attack based on timing difference of row buffer hit/miss](https://ieeexplore.ieee.org/document/7927251).
+**Haiyu Mao**, Xian Zhang, Guangyu Sun, Jiwu Shu.<br>
+\[*NVMSA 2015*\] [Exploring data placement in racetrack memory based scratchpad memory](https://ieeexplore.ieee.org/document/7304358).
+**Haiyu Mao**, Xian Zhang, Guangyu Sun, Jiwu Shu.<br>
+
+
+
+
+# Awards
+\[2017\] Guanghua Scholarship <br>
+\[2016\] Guanghua Scholarship <br>
+\[2015\] Outstanding Undergraduate Student <br>
+\[2012, 2013, 2014\] National Scholarship <br>
