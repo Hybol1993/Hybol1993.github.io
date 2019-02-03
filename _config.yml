@@ -1,6 +1,6 @@
 locale: "en-US"
-title: Haiyu Mao# Title of your site
-url: "http://haiyu.com" # the base hostname & protocol for your site
+title: Haiyu Mao's Homepage # Title of your site
+url: "http://hybol1993.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
