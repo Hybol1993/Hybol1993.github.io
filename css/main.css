@@ -2546,6 +2546,12 @@
 		width: calc(100% - 35%);
 	}
 
+    #visitmap {
+        margin-left: 35%;
+        position: fixed;
+        width: 75%;
+    }
+
 		#main > section {
 			border-top: solid 2px #efefef;
 			margin: 4em 0 0 0;
