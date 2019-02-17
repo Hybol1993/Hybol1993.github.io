@@ -7,22 +7,19 @@ layout: post
 I am a Ph.D. candidate at [Storage Group](http://storage.cs.tsinghua.edu.cn/) of Computer Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018/index.html), and supervised by [Prof.Jiwu Shu](http://storage.cs.tsinghua.edu.cn/~jiwu-shu/). Before that, I received my bachelor degree at [Northeastern University](http://english.neu.edu.cn/) in China. Here is my [CV](../CV_HAIYU.pdf) for your reference.
 
 My research interests include:
->- **Architecture of Non-volatile Memory**
->- **Security of Non-volatile Memory**
->- **Non-volatile Memory based Processing-In-Memory**
->- **Machine Learning Accelerator**
+- **Architecture of Non-volatile Memory**
+- **Security of Non-volatile Memory**
+- **Non-volatile Memory based Processing-In-Memory**
+- **Machine Learning Accelerator**
 
 # Publications
 
->- \[**MICRO-51 2018**\] **Haiyu Mao**, Mingcong Song, Tao Li, Yuting Dai, Jiwu Shu. [LerGAN: A Zero-Free, Low Data Movement and PIM-Based GAN Architecture](../lergan.pdf).
+- \[**MICRO-51 2018**\]  **Haiyu Mao**, Mingcong Song, Tao Li, Yuting Dai, Jiwu Shu. <br> [LerGAN: A Zero-Free, Low Data Movement and PIM-Based GAN Architecture](../lergan.pdf).
  \[[Lightning Talk](https://www.youtube.com/watch?v=dmsGaoJKbAU)\]<br>
->- \[**DATE 2017**\] **Haiyu Mao**, Xian Zhang, Guangyu Sun, Jiwu Shu. [Protect non-volatile memory from wear-out attack based on timing difference of row buffer hit/miss](../wearout.pdf).
+- \[**DATE 2017**\]  **Haiyu Mao**, Xian Zhang, Guangyu Sun, Jiwu Shu. <br> [Protect non-volatile memory from wear-out attack based on timing difference of row buffer hit/miss](../wearout.pdf).
 <br>
->- \[**NVMSA 2015**\] **Haiyu Mao**, Xian Zhang, Guangyu Sun, Jiwu Shu. [Exploring data placement in racetrack memory based scratchpad memory](../racetrack.pdf).
+- \[**NVMSA 2015**\]  **Haiyu Mao**, Xian Zhang, Guangyu Sun, Jiwu Shu. <br> [Exploring data placement in racetrack memory based scratchpad memory](../racetrack.pdf).
 <br>
-
-
-
 
 # Selected Awards
 \[2017\] Comprehensive Secondary Scholarship <br>
