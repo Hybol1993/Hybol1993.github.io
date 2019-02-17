@@ -4,7 +4,7 @@ layout: post
 
 # About Me
 
-I am a Ph.D. candidate at [Storage Group](http://storage.cs.tsinghua.edu.cn/) of Computer Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018/index.html), and supervised by [Prof.Jiwu Shu](http://storage.cs.tsinghua.edu.cn/~jiwu-shu/). Before that, I received my bachelor degree at [Northeastern University](http://english.neu.edu.cn/) in China.
+I am a Ph.D. candidate at [Storage Group](http://storage.cs.tsinghua.edu.cn/) of Computer Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018/index.html), and supervised by [Prof.Jiwu Shu](http://storage.cs.tsinghua.edu.cn/~jiwu-shu/). Before that, I received my bachelor degree at [Northeastern University](http://english.neu.edu.cn/) in China. Here is my [CV](../CV_HAIYU.pdf) for your reference.
 
 My research interests include:
 >- **Architecture of Non-volatile Memory**
