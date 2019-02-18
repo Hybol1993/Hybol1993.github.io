@@ -1562,7 +1562,7 @@
 	body, input, select, textarea {
 		color: #666666;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 24pt;
+		font-size: 1.5em;
 		font-weight: 400;
 		line-height: 1.75em;
 	}
@@ -1584,8 +1584,8 @@
 		}
 
 	strong, b {
-		color: #333333;
-		font-weight: 600;
+		color: #4F4F4F;
+		font-weight: 500;
 	}
 
 	em, i {
@@ -1598,7 +1598,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #4F4F4F;
-		font-weight: 600;
+		font-weight: 700;
 		line-height: 1em;
 	}
 
