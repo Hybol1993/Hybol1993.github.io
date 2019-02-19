@@ -18,7 +18,7 @@ My research interests include:
  \[[**Lightning Talk**](https://www.youtube.com/watch?v=dmsGaoJKbAU)\]<br>
 - \[**DATE 2017**\]  **Haiyu Mao**, Xian Zhang, Guangyu Sun, Jiwu Shu. <br> [Protect non-volatile memory from wear-out attack based on timing difference of row buffer hit/miss](../wearout.pdf).
 <br>
-- \[**NVMSA 2015**\]  **Haiyu Mao**, Xian Zhang, Guangyu Sun, Jiwu Shu. <br> [Exploring data placement in racetrack memory based scratchpad memory](../racetrack.pdf).
+- \[**NVMSA 2015**\]  **Haiyu Mao**, Chao Zhang, Guangyu Sun, Jiwu Shu. <br> [Exploring data placement in racetrack memory based scratchpad memory](../racetrack.pdf).
 <br>
 
 # Selected Awards
