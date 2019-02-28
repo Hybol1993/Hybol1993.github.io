@@ -13,7 +13,7 @@ My research interests include:
 - **Machine Learning Accelerator**
 
 # Publications
-
+- \[***DAC 2019***\]  Fan Yang, Youyou Lu, Youmin Chen, **Haiyu Mao**, Jiwu Shu. <br> [No Compromises: Secure NVM with Crash Consistency, Write-Efficiency and High-Performance](https://dac.com/content/2019-dac-accepted-papers).
 - \[***MICRO-51 2018***\]  **Haiyu Mao**, Mingcong Song, Tao Li, Yuting Dai, Jiwu Shu. <br> [LerGAN: A Zero-Free, Low Data Movement and PIM-Based GAN Architecture](../lergan.pdf).
  \[[**Lightning Talk**](https://www.youtube.com/watch?v=dmsGaoJKbAU)\]<br>
 - \[***DATE 2017***\]  **Haiyu Mao**, Xian Zhang, Guangyu Sun, Jiwu Shu. <br> [Protect non-volatile memory from wear-out attack based on timing difference of row buffer hit/miss](../wearout.pdf).
