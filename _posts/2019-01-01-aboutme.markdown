@@ -4,7 +4,7 @@ layout: post
 
 # About Me
 
-I am a Ph.D. candidate at [Storage Group](http://storage.cs.tsinghua.edu.cn/) of Computer Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018/index.html), and supervised by [Prof.Jiwu Shu](http://storage.cs.tsinghua.edu.cn/~jiwu-shu/). Before that, I received my bachelor degree at [Northeastern University](http://english.neu.edu.cn/) in China. Here is my [CV](../CV_HAIYU.pdf) for your reference.
+I am a Ph.D. candidate at [Storage Group](http://storage.cs.tsinghua.edu.cn/) of Computer Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018/index.html), and supervised by [Prof.Jiwu Shu](http://storage.cs.tsinghua.edu.cn/~jiwu-shu/). Before that, I received my bachelor degree at [Northeastern University](http://english.neu.edu.cn/) in China. Here is my [CV](../CV.pdf) for your reference.
 
 My research interests include:
 - **Architecture of Non-volatile Memory**
@@ -13,7 +13,7 @@ My research interests include:
 - **Machine Learning Accelerator**
 
 # Publications
-- \[***DAC 2019***\]  Fan Yang, Youyou Lu, Youmin Chen, **Haiyu Mao**, Jiwu Shu. <br> [No Compromises: Secure NVM with Crash Consistency, Write-Efficiency and High-Performance](https://dac.com/content/2019-dac-accepted-papers).
+- \[***DAC 2019***\]  Fan Yang, Youyou Lu, Youmin Chen, **Haiyu Mao**, Jiwu Shu. <br> [No Compromises: Secure NVM with Crash Consistency, Write-Efficiency and High-Performance](../SecureNVM.pdf).
 - \[***MICRO-51 2018***\]  **Haiyu Mao**, Mingcong Song, Tao Li, Yuting Dai, Jiwu Shu. <br> [LerGAN: A Zero-Free, Low Data Movement and PIM-Based GAN Architecture](../lergan.pdf).
  \[[**Lightning Talk**](https://www.youtube.com/watch?v=dmsGaoJKbAU)\]<br>
 - \[***DATE 2017***\]  **Haiyu Mao**, Xian Zhang, Guangyu Sun, Jiwu Shu. <br> [Protect non-volatile memory from wear-out attack based on timing difference of row buffer hit/miss](../wearout.pdf).
@@ -22,6 +22,7 @@ My research interests include:
 <br>
 
 # Selected Awards
+**\[2019\]** National Scholarship **(2.5%)** <br>
 **\[2018\]** MICRO-51 Student Travel Award <br>
 **\[2017\]** Comprehensive Secondary Scholarship <br>
 **\[2016\]** Guanghua Scholarship <br>
