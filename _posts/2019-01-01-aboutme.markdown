@@ -4,7 +4,7 @@ layout: post
 
 # About Me
 
-I am a Ph.D. candidate at [Storage Group](http://storage.cs.tsinghua.edu.cn/) of Computer Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018/index.html), and supervised by [Prof.Jiwu Shu](http://storage.cs.tsinghua.edu.cn/~jiwu-shu/). Before that, I received my bachelor degree at [Northeastern University](http://english.neu.edu.cn/) in China. Here is my [CV](../CV.pdf) for your reference.
+I received my Ph.D. degree in Computer Science and Technology from Tsinghua University in June 2020. Before that, I was a Ph.D. candidate at [Storage Group](http://storage.cs.tsinghua.edu.cn/) of Computer Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018/index.html), and supervised by [Prof.Jiwu Shu](http://storage.cs.tsinghua.edu.cn/~jiwu-shu/). I received my bachelor degree at [Northeastern University](http://english.neu.edu.cn/) in China. Here is my [CV](../CV.pdf) for your reference.
 
 My research interests include:
 - **Architecture of Non-volatile Memory**
@@ -12,7 +12,14 @@ My research interests include:
 - **Non-volatile Memory based Processing-In-Memory**
 - **Machine Learning Accelerator**
 
+# News
+I joined in the [SAFARI at ETH Zurich](https://safari.ethz.ch/) (leaded by [Prof.Onur Mutlu](https://people.inf.ethz.ch/omutlu/)) as a Post-doctor in June 2020.
+
 # Publications
+- \[***SSI 2020***\]  **Haiyu Mao**, Jiwu Shu, Fei Li, Zhe Liu. <br> [The Development of Processing In Memory](../pimsurvey.pdf) (in Chinese).
+- \[***TC 2020***\]  **Haiyu Mao**, Jiwu Shu, Mingcong Song, Tao Li. <br> [LrGAN: A Compact and Energy Efficient PIM-based Architecture for GAN Training](../LrGAN.pdf).
+- \[***TOS 2020***\]  Fan Yang, Youmin Chen, **Haiyu Mao**, Youyou Lu, Jiwu Shu. <br> [Libra: An Efficient and Fast Recoverable System for Secure Non-Volatile Memory](../Libra.pdf).
+- \[***Journal of Computer Research and Development***\]  **Haiyu Mao**, Jiwu Shu. <br> [3D Memristor Array Based Neural Network Processing in Memory Architecture](../3dmemristor.pdf)(in Chinese).
 - \[***DAC 2019***\]  Fan Yang, Youyou Lu, Youmin Chen, **Haiyu Mao**, Jiwu Shu. <br> [No Compromises: Secure NVM with Crash Consistency, Write-Efficiency and High-Performance](../SecureNVM.pdf).
 - \[***MICRO-51 2018***\]  **Haiyu Mao**, Mingcong Song, Tao Li, Yuting Dai, Jiwu Shu. <br> [LerGAN: A Zero-Free, Low Data Movement and PIM-Based GAN Architecture](../lergan.pdf).
  \[[**Lightning Talk**](https://www.youtube.com/watch?v=dmsGaoJKbAU)\]<br>
@@ -22,6 +29,8 @@ My research interests include:
 <br>
 
 # Selected Awards
+**\[2020\]** Outstanding Ph.D. Graduate in Beijing **(Top 5 in the department)** <br>
+**\[2020\]** Outstanding Ph.D. in Department of Computer Science and Technology <br>
 **\[2019\]** National Scholarship **(2.5%)** <br>
 **\[2018\]** MICRO-51 Student Travel Award <br>
 **\[2017\]** Comprehensive Secondary Scholarship <br>
