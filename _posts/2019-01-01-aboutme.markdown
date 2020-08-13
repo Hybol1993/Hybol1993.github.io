@@ -13,7 +13,9 @@ My research interests include:
 - **Machine Learning Accelerator**
 
 # News
-I joined in the [SAFARI at ETH Zurich](https://safari.ethz.ch/) (leaded by [Prof.Onur Mutlu](https://people.inf.ethz.ch/omutlu/)) as a Post-doctor in June 2020.
+- The journal paper, "LrGAN: A Compact and Energy Efficient PIM-based Architecture for GAN Training.", was published by Transaction of Computer (TC) in July 2020.
+- I joined in the [SAFARI group at ETH Zurich](https://safari.ethz.ch/) (leaded by [Prof.Onur Mutlu](https://people.inf.ethz.ch/omutlu/)) as a Post-doctor in June 2020.
+
 
 # Publications
 - \[***SSI 2020***\]  **Haiyu Mao**, Jiwu Shu, Fei Li, Zhe Liu. <br> [The Development of Processing In Memory](../pimsurvey.pdf) (in Chinese).
