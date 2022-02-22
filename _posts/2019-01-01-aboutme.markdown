@@ -4,7 +4,7 @@ layout: post
 
 # About Me
 
-I am a postdoctoral researcher in the [SAFARI Research Group](https://safari.ethz.ch/) led by [Prof. Onur Mutlu](http://people.inf.ethz.ch/omutlu/) at [ETH Zurich](https://ethz.ch/en.html). Before that, I was a Ph.D. candidate at [Storage Group](http://storage.cs.tsinghua.edu.cn/) of Computer Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018/index.html), and supervised by [Prof.Jiwu Shu](http://storage.cs.tsinghua.edu.cn/~jiwu-shu/). I received my bachelor degree at [Northeastern University](http://english.neu.edu.cn/) in China. Here is my [CV](../CV.pdf) for your reference.
+I am a postdoctoral researcher in the [SAFARI Research Group](https://safari.ethz.ch/) led by [Prof. Onur Mutlu](http://people.inf.ethz.ch/omutlu/) at [ETH Zurich](https://ethz.ch/en.html). Before that, I was a Ph.D. at [Storage Group](http://storage.cs.tsinghua.edu.cn/) of Computer Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018/index.html), and supervised by [Prof.Jiwu Shu](http://storage.cs.tsinghua.edu.cn/~jiwu-shu/). I received my bachelor degree at [Northeastern University](http://english.neu.edu.cn/) in China. Here is my [CV](../CV.pdf) for your reference.
 
 My research interests include:
 - **Architecture of Non-volatile Memory**
