@@ -15,7 +15,7 @@ My research interests include:
 
 
 # Publications
-- \[***ASPLOS 2022***\]  Nika Mansouri Ghiasi, Jisung Park, Harun Mustafa, Jeremie Kim, Arvid Gollwitzer, Ataberk Olgun, **Haiyu Mao**, Can Firtina, Damla Senol Cali, Nour Almadhoun Alserr, Rachata Ausavarungnirun, Nandita Vijaykumar, Mohammed Alser, Onur Mutlu. <br> [GenStore: An In-Storage Processing System for Genome Sequence Analysis].
+- \[***ASPLOS 2022***\]  Nika Mansouri Ghiasi, Jisung Park, Harun Mustafa, Jeremie Kim, Arvid Gollwitzer, Ataberk Olgun, **Haiyu Mao**, Can Firtina, Damla Senol Cali, Nour Almadhoun Alserr, Rachata Ausavarungnirun, Nandita Vijaykumar, Mohammed Alser, Onur Mutlu. <br> [GenStore: An In-Storage Processing System for Genome Sequence Analysis](../genstore.pdf).
 - \[***SSI 2020***\]  **Haiyu Mao**, Jiwu Shu, Fei Li, Zhe Liu. <br> [The Development of Processing In Memory](../pimsurvey.pdf) (in Chinese).
 - \[***TC 2020***\]  **Haiyu Mao**, Jiwu Shu, Mingcong Song, Tao Li. <br> [LrGAN: A Compact and Energy Efficient PIM-based Architecture for GAN Training](../LrGAN.pdf).
 - \[***TOS 2020***\]  Fan Yang, Youmin Chen, **Haiyu Mao**, Youyou Lu, Jiwu Shu. <br> [Libra: An Efficient and Fast Recoverable System for Secure Non-Volatile Memory](../Libra.pdf).
