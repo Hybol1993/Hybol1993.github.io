@@ -15,6 +15,8 @@ My research interests include:
 
 
 # Publications
+- \[***MICRO 2022***\]  **Haiyu Mao**, Mohammed Alser, Mohammad Sadrosadati, Can Firtina, Akanksha Baranwal, Damla Senol Cali, Aditya Manglik, Nour Almadhoun Alserr, Onur Mutlu. <br> [GenPIP: In-Memory Acceleration of Genome Analysis via Tight Integration of Basecalling and Read Mapping](../genpip.pdf).
+- \[***CSBJ 2022***\]  Mohammed Alser, Joel Lindegger, Can Firtina, Nour Almadhoun, **Haiyu Mao**, Gagandeep Singh, Juan Gomez-Luna, Onur Mutlu. <br> [From Molecules to Genomic Variations: Accelerating Genome Analysis via Intelligent Algorithms and Architectures](../genanalysis.pdf).
 - \[***ASPLOS 2022***\]  Nika Mansouri Ghiasi, Jisung Park, Harun Mustafa, Jeremie Kim, Arvid Gollwitzer, Ataberk Olgun, **Haiyu Mao**, Can Firtina, Damla Senol Cali, Nour Almadhoun Alserr, Rachata Ausavarungnirun, Nandita Vijaykumar, Mohammed Alser, Onur Mutlu. <br> [GenStore: An In-Storage Processing System for Genome Sequence Analysis](../genstore.pdf).
 - \[***SSI 2020***\]  **Haiyu Mao**, Jiwu Shu, Fei Li, Zhe Liu. <br> [The Development of Processing In Memory](../pimsurvey.pdf) (in Chinese).
 - \[***TC 2020***\]  **Haiyu Mao**, Jiwu Shu, Mingcong Song, Tao Li. <br> [LrGAN: A Compact and Energy Efficient PIM-based Architecture for GAN Training](../LrGAN.pdf).
@@ -43,6 +45,7 @@ My research interests include:
 
 # Services
 - [EFCL Group Associate](https://efcl.ethz.ch/people/group-associates.html)
+- PC member, DATE (Design, Automation and Test in Europe Conference), 2022
 - Reviewer, ACM Computing Surveys, 2021
 - Reviewer, IEEE Micro, 2021
 - Reviewer, IEEE Transactions on Computers, 2021
