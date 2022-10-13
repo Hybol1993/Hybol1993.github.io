@@ -1,4 +1,5 @@
-I"n—<!-- _pages/publications.md -->
+I"
+—<!-- _pages/publications.md -->
 <div class="publications">
   <h2 class="year">2022</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
@@ -26,7 +27,7 @@
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-            <a href="/hybol1993/assets/pdf/genpip.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/assets/pdf/genpip.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
 
           <!-- Hidden abstract block -->
@@ -69,7 +70,7 @@
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-            <a href="/hybol1993/assets/pdf/genanalysis.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/assets/pdf/genanalysis.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
 
           <!-- Hidden abstract block -->
@@ -113,7 +114,7 @@
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-            <a href="/hybol1993/assets/pdf/genstore.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/assets/pdf/genstore.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
 
           <!-- Hidden abstract block -->
@@ -158,7 +159,7 @@
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-            <a href="/hybol1993/assets/pdf/pimsurvey.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/assets/pdf/pimsurvey.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
 
           <!-- Hidden abstract block -->
@@ -204,7 +205,7 @@
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-            <a href="/hybol1993/assets/pdf/LrGAN.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/assets/pdf/LrGAN.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
 
           <!-- Hidden abstract block -->
@@ -248,7 +249,7 @@
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-            <a href="/hybol1993/assets/pdf/Libra.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/assets/pdf/Libra.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
 
           <!-- Hidden abstract block -->
@@ -294,7 +295,7 @@
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-            <a href="/hybol1993/assets/pdf/SecureNVM.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/assets/pdf/SecureNVM.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
 
           <!-- Hidden abstract block -->
@@ -340,7 +341,7 @@
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-            <a href="/hybol1993/assets/pdf/legan.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/assets/pdf/legan.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
             <a href="https://www.youtube.com/watch?v=dmsGaoJKbAU" class="btn btn-sm z-depth-0" role="button">Lightning talk</a>
           </div>
 
@@ -388,7 +389,7 @@
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-            <a href="/hybol1993/assets/pdf/wearout.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/assets/pdf/wearout.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
 
           <!-- Hidden abstract block -->
@@ -434,7 +435,7 @@
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-            <a href="/hybol1993/assets/pdf/racetrack.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/assets/pdf/racetrack.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
 
           <!-- Hidden abstract block -->
