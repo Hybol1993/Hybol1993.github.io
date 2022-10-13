@@ -1,10 +1,23 @@
 source 'https://rubygems.org'
-
-gem 'jekyll', '3.3.1'
-
 group :jekyll_plugins do
-	gem 'jekyll-feed', '0.6.0'
-	gem 'jekyll-seo-tag', '2.1.0'
-	gem 'jekyll-paginate', '1.1.0'
-	gem 'jekyll-sitemap', '1.0.0'
+    gem 'jekyll'
+    gem 'jekyll-archives'
+    gem 'jekyll-diagrams'
+    gem 'jekyll-email-protect'
+    gem 'jekyll-feed'
+    gem 'jekyll-imagemagick'
+    gem 'jekyll-minifier'
+    gem 'jekyll-paginate-v2'
+    gem 'jekyll-scholar'
+    gem 'jekyll-sitemap'
+    gem 'jekyll-target-blank'
+    gem 'jekyll-twitter-plugin'
+    gem 'jemoji'
+    gem 'mini_racer'
+    gem 'unicode_utils'
+    gem 'webrick'
+end
+group :other_plugins do
+    gem 'httparty'
+    gem 'feedjira'
 end
