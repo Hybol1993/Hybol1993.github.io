@@ -1,0 +1,19 @@
+I"'<!--- 
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+--->
+
+<p>I am currently a postdoctoral researcher in the <a href="https://safari.ethz.ch/">SAFARI Research Group</a> led by <a href="http://people.inf.ethz.ch/omutlu/">Prof. Onur Mutlu</a> at <a href="https://ethz.ch/en.html">ETH Zurich</a>. Before that, I was a Ph.D. at <a href="http://storage.cs.tsinghua.edu.cn/">Storage Group</a> of Computer Science and Technology, <a href="http://www.tsinghua.edu.cn/publish/thu2018/index.html">Tsinghua University</a>, and supervised by <a href="http://storage.cs.tsinghua.edu.cn/~jiwu-shu/">Prof. Jiwu Shu</a>. I received my bachelor degree at <a href="http://english.neu.edu.cn/">Northeastern University</a> in China.</p>
+
+<p>My research interests include:</p>
+<ul>
+  <li>Non-Volatile Memory (NVM)</li>
+  <li>NVM Security</li>
+  <li>NVM-based Processing-In-Memory (PIM)</li>
+  <li>PIM-based Machine Learning Accelerator</li>
+  <li>PIM for Bioinformatics</li>
+</ul>
+
+<p>Besides research, I like hiking, calligraphy, and delicious food!</p>
+:ET
