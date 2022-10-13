@@ -1,8 +1,8 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: cv
 nav: true
-nav_order: 1
-cv_pdf: Haiyu_CV_US.pdf
+nav_order: 4
+cv_pdf: example_pdf.pdf
 ---
