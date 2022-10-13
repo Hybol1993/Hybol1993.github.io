@@ -1,0 +1,8 @@
+- name: Facebook
+  link: 'https://www.facebook.com/profile.php?id=100015257496466'
+  social_icon: Facebook
+  new_window: true
+- name: Twitter
+  link: 'https://twitter.com/haiyu_mao'
+  social_icon: Twitter
+  new_window: true

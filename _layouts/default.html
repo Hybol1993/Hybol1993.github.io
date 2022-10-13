@@ -1,34 +1,83 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang }}">
+<html>
+	<head>
+		<title>{{ site.title }}</title>
+		<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="author" content="{{ site.author.name }}">
+		<meta name="description" content="{{ site.description }}">
+		<meta http-equiv="content-language" content="{{ site.locale }}" />
+		<meta name="generator" content="Jekyll v{{ jekyll.version }}">
 
-  <!-- Head -->
-  <head>
-  {%- if page.redirect -%}
-    <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
-  {%- endif -%}
-  {% include head.html %}
-  </head>
+		<!--[if lte IE 8]><script src="/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" type="text/css">
+		<link rel="stylesheet" href="/css/main.css">
+		<!--[if lte IE 8]><link rel="stylesheet" href="/css/ie8.css" /><![endif]-->
 
-  <!-- Body -->
-  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/jpg" href="/icon.jpg" sizes="192x192">
+    <link rel="icon" type="image/png" href="/icon_32.png">
+https://github.com/comfusion/strata-reloaded-jekyll-templat
+    {% seo %}
+    {% feed_meta %}
 
-    <!-- Header -->
-    {%- include header.html %}
+	</head>
 
-    <!-- Content -->
-    <div class="container mt-5">
-      {{ content }}
-    </div>
+	<body id="top">
+    <header id="header">
+      <a href="{{ site.url }}" class="image avatar"><img class="editable" src="/images/haiyu.jpg" alt="{{ site.author.name }}"></a>
+      <h1 class="editable"><strong>I am <a href="https://ee.ethz.ch/the-department/people-a-z/person-detail.Mjc3NjAw.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html">Haiyu Mao</a>, a postdoctoral researcher <br> in <a href="https://safari.ethz.ch/">SAFARI Research Group at ETH Zurich</a>.</strong></h1>
+    </header>
 
-    <!-- Footer -->
-    {%- include footer.html %}
+    {{ content }}
 
-    <!-- JavaScripts -->
-    {% include scripts/jquery.html %}
-    {% include scripts/bootstrap.html %}
-    {% include scripts/masonry.html %}
-    {% include scripts/misc.html %}
-    {% include scripts/mathjax.html %}
-    {% include scripts/analytics.html %}
-  </body>
+    <footer id="footer">
+      <p class="editor-link"><a href="cloudcannon:collections/_data/social.yml" class="button"><strong>&#9998;</strong> Update Social Icons</a></p>
+      <ul class="icons"> 
+        
+        {% for account in site.data.social %}
+					<li>
+						<a {% if account.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=account.link %}" {% if account.social_icon %}class="icon fa-{{ account.social_icon | slugify }}"{% endif %}>
+              <span class="label">{{ account.name }}</span>
+						</a>
+					</li>
+				{% endfor %}
+        {% if site.author.email %}
+        
+
+        <li>
+          <a href="mailto:{{ site.author.email }}" class="icon fa-envelope-o">
+            <span class="label">Email</span> maohaiyu1993@gmail.com
+          </a>
+        </li>
+        {% endif %}
+      </ul>
+      <ul class="copyright">
+          <li>Address: H64, ETZ, Gloriastrasse 35, 8092 Zürich, Switzerland </li>
+      </ul>
+          
+      
+    </footer>
+
+		<script src="/js/jquery.min.js"></script>
+		<script src="/js/jquery.poptrox.min.js"></script>
+		<script src="/js/skel.min.js"></script>
+		<script src="/js/util.js"></script>
+		<!--[if lte IE 8]><script src="/js/ie/respond.min.js"></script><![endif]-->
+		<script src="/js/main.js"></script>
+
+		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
+			<script>
+				(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,"script","//www.google-analytics.com/analytics.js","ga");
+
+				ga("create", "{{ site.google_analytics_key }}", "auto");
+				ga("send", "pageview");
+			</script>
+       
+		{% endif %}
+        
+    </body>
 </html>
