@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher at ETH Zurich
+subtitle: [Postdoctoral Researcher at ETH Zurich](https://ee.ethz.ch/the-department/people-a-z/person-detail.Mjc3NjAw.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html)
 
 profile:
   align: right
@@ -25,7 +25,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 --->
 
 
-I am currently a postdoctoral researcher in the [SAFARI Research Group](https://safari.ethz.ch/) led by [Prof. Onur Mutlu](http://people.inf.ethz.ch/omutlu/) at [ETH Zurich](https://ethz.ch/en.html). Before that, I was a Ph.D. at [Storage Group](http://storage.cs.tsinghua.edu.cn/) of Computer Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018/index.html), and supervised by [Prof. Jiwu Shu](http://storage.cs.tsinghua.edu.cn/~jiwu-shu/). I received my bachelor degree at [Northeastern University](http://english.neu.edu.cn/) in China.
+I am currently a postdoctoral researcher in the [SAFARI Research Group](https://safari.ethz.ch/) led by [Prof. Onur Mutlu](http://people.inf.ethz.ch/omutlu/) at [ETH Zurich](https://ethz.ch/en.html). Before that, I was a Ph.D. in the [Storage Group](http://storage.cs.tsinghua.edu.cn/) in the Department of Computer Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018/index.html), and supervised by [Prof. Jiwu Shu](http://storage.cs.tsinghua.edu.cn/~jiwu-shu/). I received my bachelor degree at [Northeastern University](http://english.neu.edu.cn/) in China.
 
 My research interests include:
 - Non-Volatile Memory (NVM)
