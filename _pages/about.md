@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [Postdoctoral Researcher at ETH Zurich](https://ee.ethz.ch/the-department/people-a-z/person-detail.Mjc3NjAw.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html)
+subtitle: Postdoctoral Researcher at ETH Zurich
 
 profile:
   align: right
