@@ -105,12 +105,13 @@ GEM
       kramdown (~> 2.0)
     latex-decode (0.4.0)
     libv8-node (16.10.0.0-x86_64-darwin)
+    libv8-node (16.10.0.0-x86_64-linux)
     libv8-node (16.10.0.0-x86_64-linux-musl)
     liquid (4.0.3)
     listen (3.7.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
-    loofah (2.19.0)
+    loofah (2.19.1)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mercenary (0.4.0)
@@ -122,14 +123,14 @@ GEM
     minitest (5.16.3)
     multi_xml (0.6.0)
     namae (1.1.1)
-    nokogiri (1.13.8-x86_64-darwin)
+    nokogiri (1.13.10-x86_64-darwin)
       racc (~> 1.4)
-    nokogiri (1.13.8-x86_64-linux)
+    nokogiri (1.13.10-x86_64-linux)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (5.0.0)
-    racc (1.6.0)
+    racc (1.6.1)
     rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -151,6 +152,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-21
+  x86_64-linux
   x86_64-linux-musl
 
 DEPENDENCIES
