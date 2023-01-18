@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (7.0.4)
+    activesupport (7.0.4.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
@@ -105,6 +105,7 @@ GEM
       kramdown (~> 2.0)
     latex-decode (0.4.0)
     libv8-node (16.10.0.0-x86_64-darwin)
+    libv8-node (16.10.0.0-x86_64-linux)
     libv8-node (16.10.0.0-x86_64-linux-musl)
     liquid (4.0.3)
     listen (3.7.1)
@@ -119,7 +120,7 @@ GEM
     mime-types-data (3.2022.0105)
     mini_racer (0.6.3)
       libv8-node (~> 16.10.0.0)
-    minitest (5.16.3)
+    minitest (5.17.0)
     multi_xml (0.6.0)
     namae (1.1.1)
     nokogiri (1.13.8-x86_64-darwin)
@@ -151,6 +152,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-21
+  x86_64-linux
   x86_64-linux-musl
 
 DEPENDENCIES
