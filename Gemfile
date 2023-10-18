@@ -20,6 +20,7 @@ group :jekyll_plugins do
     gem 'jekyll-jupyter-notebook'
     gem 'jekyll-link-attributes'
     gem 'jekyll-toc'
+    gem 'classifier-reborn'
 
 end
 group :other_plugins do
