@@ -1,0 +1,30 @@
+I"`<!--
+For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+
+Organize your courses by years, topics, or universities, however you like!
+-->
+
+<p>Teaching</p>
+
+<ul>
+  <li>Teaching assitant, 227-2210-00L Computer Architecture</li>
+  <li>Teaching assitant, 227-2211-00L Seminar in Computer Architecture</li>
+  <li>Teaching assitant, 252-0028-00L Digital Design and Computer Architecture</li>
+  <li>Mentor, 227-0085-37L P&amp;S PIM</li>
+  <li>Mentor, 227-0085-56L P&amp;S Hardware Software Co-design</li>
+</ul>
+
+<p>Paper Review</p>
+<ul>
+  <li>PC member, DATE (Design, Automation and Test in Europe Conference), 2022</li>
+  <li>Reviewer, ACM Computing Surveys, 2021</li>
+  <li>Reviewer, IEEE Micro, 2021</li>
+  <li>Reviewer, IEEE Transactions on Computers, 2021</li>
+  <li>Reviewer, IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2021</li>
+</ul>
+
+<p>Cooperation</p>
+<ul>
+  <li><a href="https://efcl.ethz.ch/people/group-associates.html">EFCL Group Associate</a></li>
+</ul>
+:ET
