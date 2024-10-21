@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher at ETH Zurich
+subtitle: Lecturer at King's College London
 
 
 profile:
@@ -10,9 +10,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>ETZ H64, ETH Zurich</p>
-    <p>Gloriastrasse 35</p>
-    <p>8092 Zurich, Switzerland</p>
+    <p>S1.08, Strand Campus</p>
+    <p>King's College London</p>
+    <p>London WC2R 2LS, UK</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -25,22 +25,18 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 --->
 
-**Seeking faculty positions in computer architecture and systems**
+I am currently a Lecturer (i.e., Assistant Professor in the US academic system) in the [Department of Engineering](https://www.kcl.ac.uk/engineering) at [King’s College London (KCL)](https://www.kcl.ac.uk/) and an affiliated researcher with the [SAFARI Research Group](https://safari.ethz.ch/) at [ETH Zurich](https://ethz.ch/en.html). Before that, I was a postdoctoral researcher in the SAFARI Research Group led by [Prof. Onur Mutlu](http://people.inf.ethz.ch/omutlu/) at ETH Zurich. I obtained my Ph.D. degree in the Department of Computer Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018/index.html), supervised by [Prof. Jiwu Shu](http://storage.cs.tsinghua.edu.cn/~jiwu-shu/) in the [Storage Group](http://storage.cs.tsinghua.edu.cn/). 
 
-I am currently a postdoctoral researcher in the [SAFARI Research Group](https://safari.ethz.ch/) led by [Prof. Onur Mutlu](http://people.inf.ethz.ch/omutlu/) at [ETH Zurich](https://ethz.ch/en.html). Before that, I was a Ph.D. in the [Storage Group](http://storage.cs.tsinghua.edu.cn/) in the Department of Computer Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018/index.html), and supervised by [Prof. Jiwu Shu](http://storage.cs.tsinghua.edu.cn/~jiwu-shu/). I received my bachelor degree at [Northeastern University](http://english.neu.edu.cn/) in China.
+I am passionate about software-hardware co-design, particularly in algorithm-architecture co-design, where I explore extensive design spaces to optimize solutions for human-centered applications, like bioinformatics that enhances life security and machine learning that advances and simplifies our daily lives.
 
 My research interests are in the intersection between:
 - Computer Architecture
-- Memory Systems
 - Processing-In-Memory (PIM)
-- Processing-In-Storage (PIS)
+- In-Storage-Processing (ISP)
 - Bioinformatics
 - Machine Learning
 - Non-Volatile Memories (NVM)
-- Memory Security
 
-My current research topics mainly include:
-- Full-stack acceleration for bioinformatics and machine learning applications via software-and-hardware co-design that explores a large design space to maximize benefits.
-- Heterogeneous data-centric architecture that orchestrates advanced microarchitectures (e.g., NVM-based PIMs for string matching and vector-matrix multiplication operations, PIS microarchitectures, etc.) to harness the unique strengths of the microarchitectures.
 
-Besides research, I like hiking, calligraphy, and delicious food!
+**Openings:**
+- PhD studentships available. Feel free to contact me with your CV at [haiyu.mao@kcl.ac.uk]() if you are interested in computer architecture!
