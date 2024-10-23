@@ -14,7 +14,7 @@ Organize your courses by years, topics, or universities, however you like!
 -->
 
 
-At King's College (10.2020 - Now)
+At King's College (10.2024 - Now)
 - Lecturer, 5CCE2EMP Design: Embedded System
 
 At ETH Zurich (09.2020 - 09.2024)
