@@ -14,6 +14,8 @@ Organize your courses by years, topics, or universities, however you like!
 -->
 
 Conference Paper Review
+- EPC member, MICRO (IEEE/ACM International Symposium on Microarchitecture), 2025
+- PC member, DAC (Design Automation Conference), 2025
 - PC member, FAST (USENIX Conference on File and Storage Technologies), 2025
 - EPC member, MICRO (IEEE/ACM International Symposium on Microarchitecture), 2024
 - PC member, ICCD (IEEE International Conference on Computer Design), 2024
@@ -22,7 +24,7 @@ Conference Paper Review
 
 Journal Paper Review
 - Reviewer, IEEE Transactions on Computers (TC), 2021, 2024
-- Reviewer, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024
+- Reviewer, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024, 2025
 - Reviewer, ACM Computing Surveys, 2021
 - Reviewer, IEEE Micro, 2021
 - Reviewer, IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2021
