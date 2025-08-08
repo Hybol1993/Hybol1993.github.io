@@ -11,7 +11,7 @@ The retrieval stage of RAG in particular becomes a significant performance bottl
 We propose REIS, the first Retrieval system tailored for RAG with In-Storage processing that addresses the limitations of existing implementations with three key mechanisms. First, REIS employs a database layout that links database embedding vectors to their associated documents, enabling efficient retrieval. Second, it enables efficient ANNS by introducing an ISP-tailored algorithm and data placement technique that: (i) distributes embeddings across all planes of the storage system to exploit parallelism, and (ii) employs a lightweight Flash Translation Layer (FTL) to improve performance. Third, REIS leverages an ANNS engine that uses the existing computational resources inside the storage system, without requiring hardware modifications. The three key mechanisms form a cohesive framework that largely enhances both the performance and energy efficiency of RAG pipelines. Compared to a high-end server-grade system, REIS improves the performance (energy efficiency) of the retrieval stage by an average of 13 × (55 ×). REIS offers improved performance against existing ISP-based ANNS accelerators, without introducing any hardware modifications, enabling easier adoption for RAG pipelines.},
 	booktitle={The 52nd Annual International Symposium on Computer Architecture},
 	pdf={reis.pdf},
-	selected={true},
+	//selected={false},
 	year={2025}
 }
 
@@ -23,7 +23,7 @@ We propose REIS, the first Retrieval system tailored for RAG with In-Storage pro
 	abstract={Raw signal genome analysis (RSGA) has emerged as a promising approach to enable real-time genome analysis by directly analyzing raw electrical signals. However, rapid advancements in sequencing technologies make it increasingly difficult for software-based RSGA to match the throughput of raw signal generation. This paper demonstrates that while hardware acceleration techniques can significantly accelerate RSGA, the high volume of genomic data shifts the performance and energy bottleneck from computation to I/O data movement. As sequencing throughput increases, I/O overhead becomes the main contributor to both runtime and energy consumption. Therefore, there is a need to design a high-performance, energy-efficient system for RSGA that can both alleviate the data movement bottleneck and provide large acceleration capabilities. 
   We propose MARS, a storage-centric system that leverages the heterogeneous resources within modern storage systems (e.g., storage-internal DRAM, storage controller, flash chips) alongside their large storage capacity to tackle both data movement and computational overheads of RSGA in an area-efficient and low-cost manner. MARS accelerates RSGA through a novel hardware/software co-design approach. First, MARS modifies the RSGA pipeline via two filtering mechanisms and a quantization scheme, reducing hardware demands and optimizing for in-storage execution. Second, MARS accelerates the RSGA steps directly within the storage by leveraging both Processing-Near-Memory and Processing-Using-Memory paradigms. Third, MARS orchestrates the execution of all steps to fully exploit in-storage parallelism and minimize data movement. Our evaluation shows that MARS outperforms basecalling-based software and hardware-accelerated state-of-the-art read mapping pipelines by 93x and 40x, on average across different datasets, while reducing their energy consumption by 427x and 72x.},
 	pdf={mars.pdf},
-	selected={true},
+	//selected={true},
 	year={2025}
 }
 
