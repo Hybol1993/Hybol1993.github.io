@@ -24,7 +24,7 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 --->
-I am currently an Assistant Professor (i.e., Lecturer in the UK academic system) in the [Department of Engineering](https://www.kcl.ac.uk/engineering) at [King’s College London (KCL)](https://www.kcl.ac.uk/). I am also an affiliated researcher with the [SAFARI Research Group](https://safari.ethz.ch/) at [ETH Zurich](https://ethz.ch/en.html). Before that, I was a postdoctoral researcher in the SAFARI Research Group led by [Prof. Onur Mutlu](http://people.inf.ethz.ch/omutlu/) at ETH Zurich. I obtained my Ph.D. degree in the Department of Computer Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018/index.html), supervised by [Prof. Jiwu Shu](http://storage.cs.tsinghua.edu.cn/~jiwu-shu/) in the [Storage Group](http://storage.cs.tsinghua.edu.cn/). 
+I am currently an Assistant Professor (i.e., Lecturer in the UK academic system), leading [SAIL Research Group](https://sail-research-group.github.io/sail-homepage/) in the [Department of Engineering](https://www.kcl.ac.uk/engineering) at [King’s College London (KCL)](https://www.kcl.ac.uk/). I am also an affiliated researcher with the [SAFARI Research Group](https://safari.ethz.ch/) at [ETH Zurich](https://ethz.ch/en.html). Before that, I was a postdoctoral researcher in the SAFARI Research Group led by [Prof. Onur Mutlu](http://people.inf.ethz.ch/omutlu/) at ETH Zurich. I obtained my Ph.D. degree in the Department of Computer Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018/index.html), supervised by [Prof. Jiwu Shu](http://storage.cs.tsinghua.edu.cn/~jiwu-shu/) in the [Storage Group](http://storage.cs.tsinghua.edu.cn/). 
 
 My passion lies in advancing computer architecture to address challenges that cannot be efficiently solved by software alone, especially in the era of big data. I focus on software-hardware co-design, with a particular emphasis on algorithm-architecture co-design. By exploring diverse design spaces, I aim to develop optimized solutions for human-centered applications such as bioinformatics, which contributes to life security, and machine learning, which enhances and simplifies everyday life.
 
@@ -39,6 +39,7 @@ To summarize, my research interests are in the intersection between:
 - Memory and Storage Systems
 
 
+-----------------------------
 
-**Openings:**
+# **Openings:**
 - PhD studentships available. Feel free to contact me with your CV at [haiyu.mao@kcl.ac.uk]() if you are interested in computer architecture!
