@@ -42,4 +42,4 @@ To summarize, my research interests are in the intersection between:
 -----------------------------
 
 # **Openings:**
-- Please check available positions on our group page: https://sail.kcl.ac.uk/positions/[https://sail.kcl.ac.uk/positions/].
+- Please check available positions on our group page: [https://sail.kcl.ac.uk/positions/](https://sail.kcl.ac.uk/positions/).
