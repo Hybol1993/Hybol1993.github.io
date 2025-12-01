@@ -42,4 +42,4 @@ To summarize, my research interests are in the intersection between:
 -----------------------------
 
 # **Openings:**
-- PhD studentships available. Feel free to contact me with your CV at [haiyu.mao@kcl.ac.uk]() if you are interested in computer architecture!
+- Please check available positions on our group page: https://sail.kcl.ac.uk/positions/[https://sail.kcl.ac.uk/positions/].
