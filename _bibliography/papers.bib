@@ -1,6 +1,30 @@
 ---
 ---
 
+@article{sage,
+	abbr={HPCA},
+	bibtex_show={true},
+	title={SAGe: A Lightweight Algorithm-Architecture Co-Design for Mitigating the Data Preparation Bottleneck in Large-Scale Genome Sequence Analysis},
+	author={Mansouri Ghiasi, Nika and G\u00fclo\u011flu, Talu and Mustafa, Harun and Firtina, Can and Koliogeorgi, Konstantina and Kanellopoulos, Konstantinos and Mao, Haiyu and Nadig, Rakesh and Sadrosadati, Mohammad and Park, Jisung and Mutlu, Onur},
+	abstract={Data preparation in genome sequence analysis is a critical bottleneck that significantly hampers the efficiency of modern sequencing pipelines. As sequencing throughput increases, the relative cost of data preparation tasks such as quality control, trimming, and read extraction becomes increasingly significant. While many hardware acceleration approaches exist for downstream read mapping, few solutions address the unique challenges of accelerating data preparation. In this paper, we propose SAGe, a lightweight algorithm-architecture co-design approach to accelerate the data preparation phase of large-scale genome sequence analysis. SAGe identifies and eliminates redundant operations in basecalling and quality control, optimizes memory access patterns, and provides efficient hardware acceleration. Our evaluation shows that SAGe significantly improves the performance and energy efficiency of the data preparation stage.},
+	booktitle={The 32nd International Symposium on High-Performance Computer Architecture},
+	pdf={sage.pdf},
+	//selected={true},
+	year={2026}
+}
+
+@article{genpairx,
+	abbr={HPCA},
+	bibtex_show={true},
+	title={GenPairX: A Hardware-Algorithm Co-Designed Accelerator for Paired-End Read Mapping},
+	author={Eudine, Julien and Li, Chu and Cheng, Zhuo and Andri, Renzo and Firtina, Can and Sadrosadati, Mohammad and Mansouri Ghiasi, Nika and Koliogeorgi, Konstantina and Nag, Anirban and Tavakkol, Arash and Mao, Haiyu and Mutlu, Onur and Bergman, Shai and Zhang, Ji},
+	abstract={Paired-end read mapping is a fundamental operation in genome sequence analysis that plays a critical role in various downstream analysis tasks. Despite significant progress in hardware acceleration for genome analysis, paired-end read mapping remains computationally intensive and memory-bandwidth constrained. In this paper, we propose GenPairX, a hardware-algorithm co-designed accelerator that leverages specialized hardware units and optimized algorithms to significantly accelerate paired-end read mapping. GenPairX addresses key performance bottlenecks through efficient data placement, optimized filtering strategies, and lightweight hardware acceleration. Our experimental results demonstrate substantial improvements in performance and energy efficiency compared to state-of-the-art approaches.},
+	booktitle={The 32nd International Symposium on High-Performance Computer Architecture},
+	pdf={genpairx.pdf},
+	//selected={true},
+	year={2026}
+}
+
 @article{reis,
 	abbr={ISCA},
 	bibtex_show={true},
